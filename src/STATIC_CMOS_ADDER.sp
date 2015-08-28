@@ -1,4 +1,9 @@
-sTATIC CMOS ADDER
+STATIC CMOS ADDER
+**
+* Author: Elahe Jalalpour (el.jalalpour@gmail.com)
+* Create Date: 28-08-2015
+* File Name: STATIC_CMOS_ADDER.sp
+**
 
 .param	Vsup=1.2
 
@@ -6,7 +11,7 @@ sTATIC CMOS ADDER
 
 .SUBCKT FA A B CI S CO DD 0
 
-.lib './32nm_MGK.l'   
+.lib './32nm_MGK.l'
 
 .param	Wmin=32n
 .param	Lmin=32n

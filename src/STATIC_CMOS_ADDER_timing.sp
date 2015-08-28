@@ -1,4 +1,9 @@
-sTATIC CMOS ADDER
+STATIC CMOS ADDER
+**
+* Author: Elahe Jalalpour (el.jalalpour@gmail.com)
+* Create Date: 28-08-2015
+* File Name: STATIC_CMOS_ADDER_timing.sp
+**
 
 .param	Vsup=1.2
 
